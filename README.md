@@ -23,3 +23,5 @@ Prerequisites:
 [2]:https://www.ruby-lang.org/en/
 [3]:https://jekyllrb.com
 [4]:http://bundler.io/
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
